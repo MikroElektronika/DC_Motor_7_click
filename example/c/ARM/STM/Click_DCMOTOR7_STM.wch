@@ -1,0 +1,7 @@
+<WCH v="2">
+<item n="__dcmotor7_driver__portData" r="2" s="False" e="True" i="0"/>
+<item n="dcmotor7_readCommand_readData_L0" r="1" s="False" e="False" i="1689">
+<item n="[0]" r="1" s="False" e="False" i="0"/>
+</item>
+<item n="_readreg" r="2" s="False" e="True" i="2"/>
+</WCH>

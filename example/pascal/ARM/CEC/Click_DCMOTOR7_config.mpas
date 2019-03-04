@@ -1,0 +1,8 @@
+unit Click_DCMOTOR7_config;
+
+uses Click_DCMOTOR7_types;
+
+const
+    _DCMOTOR7_I2C_CFG : array[1] of uint32_t = (_I2C_100KHZ); 
+    
+end.
